@@ -1,5 +1,5 @@
 import java.util.*;
-class Arrays {
+public class Arrays {
     public static int LargestInArray(int numbers[]){
         int max=Integer.MIN_VALUE;
         for(int i=0;i<numbers.length;i++){
