@@ -1,5 +1,5 @@
 import java.util.*;
-class Arrays {
+public class Arrays {
     public static int LinearSearch(int numbers[],int key){
         for(int i=0;i<numbers.length;i++){
             if(numbers[i]==key){
