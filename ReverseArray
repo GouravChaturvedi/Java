@@ -1,5 +1,5 @@
 import java.util.*;
-class Arrays {
+public class Arrays {
     public static void ReverseArray(int numbers[]){
         int first=0,last=numbers.length-1;
         while(first<last){
